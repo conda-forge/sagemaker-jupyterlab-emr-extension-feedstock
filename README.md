@@ -7,7 +7,7 @@ Home: https://aws.amazon.com/sagemaker/
 
 Package license: LicenseRef-.amazon.com.-AmznSL-1.0
 
-Summary: SageMaker Studio EMR extension
+Summary: SageMaker JupyterLab EMR extension
 
 Current build status
 ====================
