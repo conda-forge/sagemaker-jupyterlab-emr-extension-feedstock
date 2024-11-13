@@ -151,6 +151,7 @@ Feedstock Maintainers
 * [@c24io](https://github.com/c24io/)
 * [@mufaddal-rohawala](https://github.com/mufaddal-rohawala/)
 * [@nargokul](https://github.com/nargokul/)
+* [@nileshvd](https://github.com/nileshvd/)
 * [@pintaoz-aws](https://github.com/pintaoz-aws/)
 * [@zuoyuanh](https://github.com/zuoyuanh/)
 
