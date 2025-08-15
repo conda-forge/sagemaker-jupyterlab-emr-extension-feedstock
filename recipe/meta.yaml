@@ -45,6 +45,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - pilgd-aws
     - aws-jasakshi
     - aakashmandavilli96
     - nileshvd
