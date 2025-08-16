@@ -1,5 +1,5 @@
 {% set name = "sagemaker-jupyterlab-emr-extension" %}
-{% set version = "0.4.2" %}
+{% set version = "0.4.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: a7c25c418605bf661f52ca5e2814fe27cdaf9eab9ebb9d27f52f067e9dd451e7
+  sha256: 5edcfe5b3169fa32078d966440c86f13e323d993818dc30813e9fdba8eb52257
 
 build:
   noarch: python
