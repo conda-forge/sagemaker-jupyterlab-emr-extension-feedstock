@@ -154,6 +154,7 @@ Feedstock Maintainers
 * [@mufaddal-rohawala](https://github.com/mufaddal-rohawala/)
 * [@nargokul](https://github.com/nargokul/)
 * [@nileshvd](https://github.com/nileshvd/)
+* [@pilgd-aws](https://github.com/pilgd-aws/)
 * [@pintaoz-aws](https://github.com/pintaoz-aws/)
 * [@zuoyuanh](https://github.com/zuoyuanh/)
 
