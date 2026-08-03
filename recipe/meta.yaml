@@ -26,7 +26,7 @@ requirements:
   run:
     - python >=3.9
     - jupyterlab >=4
-    - sagemaker-jupyterlab-extension-common
+    - sagemaker-jupyterlab-extension-common >=0.5.0
     - jsonschema
 
 test:
@@ -54,7 +54,6 @@ extra:
     - HariniNarayanan
     - nargokul
     - pintaoz-aws
-    - benieric
     - mufaddal-rohawala
     - C24IO
     - Aditi2424
